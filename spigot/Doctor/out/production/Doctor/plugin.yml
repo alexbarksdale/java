@@ -1,0 +1,7 @@
+main: me.alex.Doctor.Main
+name: Doctor
+version: v1.0
+author: Alex
+
+commands:
+  doctor:
