@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Launch:jar">
+    <output-path>$PROJECT_DIR$/../../../mc/BukkitServer/plugins</output-path>
+    <root id="archive" name="Launch.jar">
+      <element id="module-output" name="Launch" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../mc/Spigot/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

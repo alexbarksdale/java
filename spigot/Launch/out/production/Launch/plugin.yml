@@ -1,0 +1,8 @@
+main: me.alex.Launch.Main
+name: Launch
+version: v1.0
+author: Alex
+
+commands:
+  launch:
+    aliases: ln
