@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChangeTeam:jar">
+    <output-path>$PROJECT_DIR$/../../../mc/BukkitServer/plugins</output-path>
+    <root id="archive" name="ChangeTeam.jar">
+      <element id="module-output" name="Gamble" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../mc/Spigot/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
