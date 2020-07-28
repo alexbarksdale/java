@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="GodBoots:jar">
+    <output-path>$PROJECT_DIR$/../../../mc/BukkitServer/plugins</output-path>
+    <root id="archive" name="GodBoots.jar">
+      <element id="module-output" name="GodBoots" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../mc/Spigot/spigot.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
