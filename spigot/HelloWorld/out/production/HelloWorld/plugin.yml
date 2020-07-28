@@ -1,0 +1,7 @@
+main: me.alex.HelloWorld.Main
+name: HelloWorld
+version: v1.0
+author: Alex
+
+commands:
+  Hello:
