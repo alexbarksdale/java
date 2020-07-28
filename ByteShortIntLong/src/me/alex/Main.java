@@ -26,5 +26,13 @@ public class Main {
 
         System.out.println("Min Val:" +  minLongVal);
         System.out.println("Max Val:" +  maxLongVal);
+
+        // CASTING
+        int price = 5;
+        int total = (price / 2);
+
+        byte byteTotal = (byte) (total / 2);
+
+        short shortTotal = (short) (total / 2);
     }
 }
