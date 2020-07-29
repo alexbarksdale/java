@@ -1,0 +1,8 @@
+main: me.alex.PlayerSkull.Main
+name: Skull
+version: 1.0
+author: Alex
+api-version: 1.16
+
+commands:
+  skull:
