@@ -1,0 +1,8 @@
+main: me.alex.ConfigFiles.Main
+name: ConfigFiles
+version: 1.0
+author: Alex
+api-version: 1.16
+
+commands:
+  randblocks:
