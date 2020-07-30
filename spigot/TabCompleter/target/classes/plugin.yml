@@ -1,0 +1,7 @@
+main: me.alex.tabcompleter.Main
+name: TabCompleter
+version: 1.0
+author: Alex
+
+commands:
+  stats:
