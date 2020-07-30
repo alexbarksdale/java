@@ -1,0 +1,7 @@
+main: me.alex.kitgui.Main
+name: KitGUI
+version: 1.0
+author: Alex
+
+commands:
+  kits:

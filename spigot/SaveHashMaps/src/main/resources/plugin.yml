@@ -1,0 +1,7 @@
+main: me.alex.savehashmaps.Main
+name: SaveHashMaps
+version: 1.0
+author: Alex
+
+commands:
+  pv:
