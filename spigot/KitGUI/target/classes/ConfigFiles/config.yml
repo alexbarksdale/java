@@ -1,0 +1,14 @@
+reload:
+  message:
+    - "&cReload message"
+    - "&aAnother message"
+
+blocks:
+  DIRT:
+    - DIAMOND
+    - EMERALD
+    - GRASS
+    - DIRT
+    - DIRT
+    - DIRT
+    - DIRT

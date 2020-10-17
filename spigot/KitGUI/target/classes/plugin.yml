@@ -5,3 +5,5 @@ author: Alex
 
 commands:
   kits:
+    usage: /<command>
+    description: Open the kit GUI

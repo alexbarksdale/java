@@ -2,6 +2,9 @@ main: me.alex.kitgui.Main
 name: KitGUI
 version: 1.0
 author: Alex
+api-version: 1.16
 
 commands:
   kits:
+    usage: /<command>
+    description: Open the kit GUI

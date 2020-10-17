@@ -63,6 +63,7 @@ public class Main extends JavaPlugin implements Listener {
     public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
         if (label.equalsIgnoreCase("kits") && sender instanceof Player) {
             Player player = (Player) sender;
+            player.getInventory().getItem()
 
             player.openInventory(kits);
             return true;
